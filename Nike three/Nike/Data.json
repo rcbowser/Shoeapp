@@ -1,0 +1,172 @@
+[
+    {
+        "id": 1000,
+        "product": "Nike React Presto",
+        "imageName": "presto",
+        "catagory": "Men's Shoes",
+        "description": "Inspired by the early 2000s original, the Nike Presto React puts an exaggerated spin on an unconventional icon. Nike React foam delivers an expressive look with a lightweight, bouncy feel and a whole lot of personality.",
+        "price": 150.00
+    },
+    {
+        "id": 1001,
+        "product": "Air Jordan",
+        "imageName": "air-jordan",
+        "catagory": "Men's Shoes",
+        "description": "The Air Jordan 1 Mid Shoe is inspired by the first AJ1, offering OG fans a look at how far the Jordan brand has come since 1985.",
+        "price": 110.00
+    },
+    {
+        "id": 1002,
+        "product": "Nike Air VaporMax SE",
+        "imageName": "air-vapormax",
+        "catagory": "Men's Shoes",
+        "description": "The Nike Air VaporMax SE wraps your foot in a stretch woven material that gives structure and support to your stride. Underfoot, the lightest, most flexible Air Max cushioning to date gives a super bouncy sensation that rivals running on air.",
+        "price": 200.00
+    },
+    {
+        "id": 1003,
+        "product": "Nike Zoom KD12",
+        "imageName": "zoom",
+        "catagory": "Men's Shoes",
+        "description": "Kevin Durant always looks relaxed—until he attacks. His game is reserved yet explosive, difficult to guard and impossible to stop. The KD12 was built for his dominance and endless energy all game long with the latest innovation in Nike Zoom Air technology.",
+        "price": 150.00
+    },
+    {
+        "id": 1004,
+        "product": "LeBron Soldier XIII",
+        "imageName": "lebron",
+        "catagory": "Men's Shoes",
+        "description": "LeBron works hard in the offseason, getting stronger and fine-tuning his already devastating skills. Inspired by his dedication and commitment to inclusivity, the Soldier XIII SFG combines LeBron-tested cushioning, containment and support with a wide, flexible collar and lace-free closure that lets all players get in and out of the shoe with ease.",
+        "price": 140.00
+    },
+    {
+        "id": 1005,
+        "product": "Nike Air Max 270",
+        "imageName": "air-max",
+        "catagory": "Men's Shoes",
+        "description": "The Nike Air Max 270 Men's Shoe is inspired by two icons of big Air: the Air Max 180 and Air Max 93. It features Nike’s biggest heel Air unit yet for a super-soft ride that feels as impossible as it looks.",
+        "price": 150.00
+    },
+    {
+        "id": 1006,
+        "product": "Nike Air Tech Challenge 2 QS",
+        "imageName": "air-tech",
+        "catagory": "Men's Shoes",
+        "description": "With looks hotter than lava, the Nike Air Tech Challenge 2 QS brings back the Agassi era of performance and style. An original Tinker Hatfield design, this 1-to-1 remake features the same bold color blocking that's sure to turn heads, while the padded tongue and collar combine with Nike Air cushioning to keep you moving all day long.",
+        "price": 130.00
+    },
+    {
+        "id": 1007,
+        "product": "Nike Air VaporMax",
+        "imageName": "air-vapormax",
+        "catagory": "Women's Shoes",
+        "description": "The Nike Air VaporMax SE wraps your foot in a stretch woven material that gives structure and support to your stride. Underfoot, the lightest, most flexible Air Max cushioning to date gives a super bouncy sensation that rivals running on air.",
+        "price": 190.00
+    },
+    {
+        "id": 1008,
+        "product": "Nike Air Max 270 React",
+        "imageName": "air-max",
+        "catagory": "Women's Shoes",
+        "description": "Inspired by colors and textures from a variety of art movements of the last century, the Nike Air Max 270 React uses lightweight, layered materials to create a modern style that looks as good as it feels.",
+        "price": 150.00
+    },
+    {
+        "id": 1009,
+        "product": "Nike Air Zoom Pegasus",
+        "imageName": "air-zoom-pegasus",
+        "catagory": "Women's Shoes",
+        "description": "Breathability and inspiration come together in the Nike Air Zoom Pegasus 36 Premium Rise. A knit-in graphic repeating across the mesh and synthetic upper spells out, Just Do It. in perforations.",
+        "price": 130.00
+    },
+    {
+        "id": 1010,
+        "product": "Nike Air Max 720 SE",
+        "imageName": "air-max-720",
+        "catagory": "Women's Shoes",
+        "description": "Boasting Nike's tallest Air unit to date, the Nike Air Max 720 SE offers 360 degrees of cushioning and then some. Between its jaw-dropping outsole and molded upper, this shoe will support you in style.",
+        "price": 141.97
+    },
+    {
+        "id": 1011,
+        "product": "Nike Metcon 5",
+        "imageName": "metcon-5",
+        "catagory": "Women's Shoes",
+        "description": "The Nike Metcon 5 is the most tuned Metcon yet. This means specific stability for heavy lifting, traction made for speed, and durability where you need it. It even includes a Hyperlift insert that's compatible with all prior versions of the Metcon. Meet your secret weapon for weight lifting and high-impact training.",
+        "price": 130.00
+    },
+    {
+        "id": 1012,
+        "product": "Nike Air Max 98",
+        "imageName": "air-max-98",
+        "catagory": "Women's Shoes",
+        "description": "The Air Max 98 rode the wave of its legendary predecessor, debuting with full-length visible Air and fluid design lines. Now it returns, sporting the same signature look and a new run of colors.",
+        "price": 160.00
+    },
+    {
+        "id": 1013,
+        "product": "Nike Epic React Flyknit 2",
+        "imageName": "epic-react-flyknit",
+        "catagory": "Women's Shoes",
+        "description": "The Nike Epic React Flyknit 2 takes smooth, lightweight performance to the next level. A Flyknit upper conforms to your foot with a minimal, supportive design. Underfoot, durable Nike React technology defies odds by being both soft and responsive.",
+        "price": 150.00
+    },
+    {
+        "id": 1014,
+        "product": "Nike Air Max 270 React",
+        "imageName": "air-max-270-react",
+        "catagory": "Kid's Shoes",
+        "description": "The Air Max 270 React combines the Nike's tallest Max Air unit with soft, springy Nike React foam for cushioning that just doesn't stop. Colors are inspired by different periods of modern art from Bauhaus to Impressionism.",
+        "price": 120.00
+    },
+    {
+        "id": 1015,
+        "product": "Nike Air Max 270",
+        "imageName": "air-max-270",
+        "catagory": "Kid's Shoes",
+        "description": "The Nike Air Max 270 Big Kids' Shoe is inspired by two icons of Air: the Air Max 180 and Air Max 93. It features Nike's biggest heel Air unit yet for a super-soft ride that feels as impossible as it looks.",
+        "price": 120.00
+    },
+    {
+        "id": 1016,
+        "product": "Nike Air VaporMax 2019 Game",
+        "imageName": "air-vapormax-2019",
+        "catagory": "Kid's Shoes",
+        "description": "Peek into the soul of the Nike Air VaporMax 2019 Game. See-through layers reveal the inner design for lightweight comfort. Bold colors inspired by the '80s and '90s help your shoes stand out.",
+        "price": 170.00
+    },
+    {
+        "id": 1017,
+        "product": "LeBron Soldier 13",
+        "imageName": "lebron-soldier",
+        "catagory": "Kid's Shoes",
+        "description": "Hit the court looking like a champ in the LeBron Soldier 13. Built for one of the most powerful players, it’s designed to withstand the grind of the game. Zoom Air technology combines with foam cushioning for a soft, springy sensation while you hustle, cut and pivot against your opponent.",
+        "price": 110.00
+    },
+    {
+        "id": 1018,
+        "product": "KD Trey 5 VII",
+        "imageName": "kd-trey-5",
+        "catagory": "Kid's Shoes",
+        "description": "Kevin Durant likes a shoe that feels broken-in right away but still provides a secure feel. The KD Trey 5 VII gets it right with bouncy cushioning and a precise, comfortable fit that's ready to go right out of the box.",
+        "price": 80.00
+    },
+    {
+        "id": 1019,
+        "product": "Nike Air Max 95",
+        "imageName": "air-max-95",
+        "catagory": "Kid's Shoes",
+        "description": "Modeled after the first shoe to feature Max Air cushioning in the forefoot, the Nike Air Max 95 Premium Big Kids' Shoe combines supportive overlays with plush, Max Air cushioning for lightweight, all-day comfort.",
+        "price": 100.00
+    },
+    {
+        "id": 1020,
+        "product": "Nike Air Max 1 Game",
+        "imageName": "air-max-1-game",
+        "catagory": "Kid's Shoes",
+        "description": "Reigning the streets since 1987, the Nike Air Max 1 Game combines colors inspired by the '80s and '90s with classic Max Air cushioning for all-day comfort that stands out.",
+        "price": 100.00
+    }
+    
+    
+]
